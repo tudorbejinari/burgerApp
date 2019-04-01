@@ -1,0 +1,39 @@
+
+body {
+    color: #f5f5f5;
+    background-image: url(../img/burger.jpg);
+
+    font-family: 'Baloo Chettan', cursive;
+}
+
+.container {
+
+    width: 95%;
+    margin: auto;
+}
+h1{
+    font-size: 56px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+h4{
+    color: yellow;
+}
+p {
+    font-size: 20px;
+}
+
+.btn-small,.textarea{
+ margin:10px 10px 10px 0px;
+ border-radius: 5px;
+}
+.devoured{
+    color:red;
+}
+#btn {
+    margin-left: 45px;
+}
+h5{
+    margin-top: 35px;
+}
+
